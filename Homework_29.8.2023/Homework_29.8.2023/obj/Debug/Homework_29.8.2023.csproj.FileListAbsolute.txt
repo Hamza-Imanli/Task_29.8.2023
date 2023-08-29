@@ -1,0 +1,8 @@
+C:\Users\ASUS\Desktop\C#_dersleri\Homework_29.8.2023\Homework_29.8.2023\bin\Debug\Homework_29.8.2023.exe.config
+C:\Users\ASUS\Desktop\C#_dersleri\Homework_29.8.2023\Homework_29.8.2023\bin\Debug\Homework_29.8.2023.exe
+C:\Users\ASUS\Desktop\C#_dersleri\Homework_29.8.2023\Homework_29.8.2023\bin\Debug\Homework_29.8.2023.pdb
+C:\Users\ASUS\Desktop\C#_dersleri\Homework_29.8.2023\Homework_29.8.2023\obj\Debug\Homework_29.8.2023.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C#_dersleri\Homework_29.8.2023\Homework_29.8.2023\obj\Debug\Homework_29.8.2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\C#_dersleri\Homework_29.8.2023\Homework_29.8.2023\obj\Debug\Homework_29.8.2023.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#_dersleri\Homework_29.8.2023\Homework_29.8.2023\obj\Debug\Homework_29.8.2023.exe
+C:\Users\ASUS\Desktop\C#_dersleri\Homework_29.8.2023\Homework_29.8.2023\obj\Debug\Homework_29.8.2023.pdb
